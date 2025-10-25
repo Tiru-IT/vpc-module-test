@@ -1,16 +1,16 @@
-### Tirupataiah Satrapu
+# Tirupataiah Satrapu
 
-📞 +91-7095614305 | 📧 tirusatrapu36@gmail.com
+## 📞 +91-7095614305 | 📧 tirusatrapu36@gmail.com
 
- | Github: ```https://github.com/Tiru-IT```
+## Github: ```https://github.com/Tiru-IT```
 
-📍 Location: India
+## 📍 Location: India
 
-# Profile Summary
+### Profile Summary
 
 DevOps Engineer with hands-on experience in automating cloud infrastructure, configuration management, and using Terraform, Ansible, and Linux. Skilled in developing reusable Terraform modules, implementing Infrastructure as Code (IaC), and managing deployments across AWS environments. Strong background in automation scripting (Shell, Python) and containerization (Docker, Kubernetes) with a focus on scalability, reliability, and security.
 
-# Technical Skills
+### Technical Skills
 
 * Cloud Platforms: AWS
 * IaC & Automation: Terraform, Ansible, Shell, Python
@@ -18,7 +18,7 @@ DevOps Engineer with hands-on experience in automating cloud infrastructure, con
 * Version Control: Git, GitHub
 * Operating Systems: Linux (RHEL, Ubuntu)
 
-# Professional Experience
+### Professional Experience
 
 * Designed and developed Terraform modules for automated provisioning of AWS infrastructure (EC2, VPC, S3, IAM, RDS).
 
@@ -32,15 +32,15 @@ DevOps Engineer with hands-on experience in automating cloud infrastructure, con
 
 * Automated server setup and backups using Shell scripts and cron jobs.
 
-# Education
+### Education
 
     Bachelor of Science (BSC) in Statistics,
 
     Acharya Nagarjuna University, Guntur
-    
+
     Graduated: 2022
 
-# Projects
+### Projects
 
 1. AWS Infrastructure Automation with Terraform
 
