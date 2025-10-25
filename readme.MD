@@ -1,10 +1,10 @@
 # Tirupataiah Satrapu
 
-## 📞 +91-7095614305 | 📧 tirusatrapu36@gmail.com
+📞 +91-7095614305 | 📧 tirusatrapu36@gmail.com
 
-## Github: ```https://github.com/Tiru-IT```
+ Github: ```https://github.com/Tiru-IT```
 
-## 📍 Location: India
+ 📍 Location: India
 
 ### Profile Summary
 
