@@ -1,7 +1,9 @@
 ### Tirupataiah Satrapu
 
 📞 +91-7095614305 | 📧 tirusatrapu36@gmail.com
+
  | Github: ```https://github.com/Tiru-IT```
+
 📍 Location: India
 
 # Profile Summary
@@ -33,7 +35,9 @@ DevOps Engineer with hands-on experience in automating cloud infrastructure, con
 # Education
 
     Bachelor of Science (BSC) in Statistics,
+
     Acharya Nagarjuna University, Guntur
+    
     Graduated: 2022
 
 # Projects
