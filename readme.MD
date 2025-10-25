@@ -35,7 +35,9 @@ DevOps Engineer with hands-on experience in automating cloud infrastructure, con
 ### Education
 
   Bachelor of Science (BSC) in Statistics,
+
   Acharya Nagarjuna University, Guntur 
+  
   Graduated: 2022
 
 ### Projects
