@@ -1,4 +1,4 @@
-### Tirupq Satrapu
+### Tirupataiah Satrapu
 
 📞 +91-7095614305 | 📧 tirusatrapu36@gmail.com
  | Github: ```https://github.com/Tiru-IT```
@@ -10,11 +10,11 @@ DevOps Engineer with hands-on experience in automating cloud infrastructure, con
 
 # Technical Skills
 
-Cloud Platforms: AWS
-IaC & Automation: Terraform, Ansible, Shell, Python
-Containers & Orchestration: Docker, Kubernetes
-Version Control: Git, GitHub
-Operating Systems: Linux (RHEL, Ubuntu)
+* Cloud Platforms: AWS
+* IaC & Automation: Terraform, Ansible, Shell, Python
+* Containers & Orchestration: Docker, Kubernetes
+* Version Control: Git, GitHub
+* Operating Systems: Linux (RHEL, Ubuntu)
 
 # Professional Experience
 
@@ -32,22 +32,22 @@ Operating Systems: Linux (RHEL, Ubuntu)
 
 # Education
 
-Bachelor of Science (BSC) in Statistics
-Acharya Nagarjuna University, Guntur
-Graduated: 2022
+    Bachelor of Science (BSC) in Statistics,
+    Acharya Nagarjuna University, Guntur
+    Graduated: 2022
 
 # Projects
 
 1. AWS Infrastructure Automation with Terraform
 
-Created reusable Terraform modules for EC2, VPC, and S3 provisioning.
+    Created reusable Terraform modules for EC2, VPC, and S3 provisioning.
 
-Used remote backend (S3) for state management and versioning.
+    Used remote backend (S3) for state management and versioning.
 
 2. CI/CD Pipeline with Jenkins and Ansible
 
-Automated build → test → deploy workflow using Jenkins integrated with Ansible playbooks.
+    Automated build → test → deploy workflow using Jenkins integrated with Ansible playbooks.
 
-Reduced deployment errors by 40% through consistent, repeatable automation.
+    Reduced deployment errors by 40% through consistent, repeatable automation.
 
-Terraform, Ansible, AWS, Azure, Linux, CI/CD, Jenkins, Docker, Kubernetes, Infrastructure as Code, Git, DevOps, Shell Scripting, Cloud Automation, Monitoring, Python, Prometheus, Grafana, GitHub Actions, Cloud Security, Terraform Modules.
+    Terraform, Ansible, AWS, Azure, Linux, CI/CD, Jenkins, Docker, Kubernetes, Infrastructure as Code, Git, DevOps, Shell Scripting, Cloud Automation, Monitoring, Python, Prometheus, Grafana, GitHub Actions, Cloud Security, Terraform Modules.
